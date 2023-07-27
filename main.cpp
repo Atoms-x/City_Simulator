@@ -1,7 +1,10 @@
 //***************************************************************
 // Chet Lockwood
 // Last Update: 21 MAY 2020
-// Description: City Growth Simulator
+// Title: City Growth Simulator
+// Description: Simulates the growth of a city under a specified
+//              model. Has three distinct districts:
+//              Residential, Commercial, Industrial
 //***************************************************************
 
 #include <iostream>
