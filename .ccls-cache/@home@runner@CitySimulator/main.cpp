@@ -4,7 +4,8 @@
 // Title: City Growth Simulator
 // Description: Simulates the growth of a city under a specified
 //              model. Has three distinct districts:
-//              Residential, Commercial, Industrial
+//              Residential, Commercial, Industrial. Other 
+//              factors include powerlines, and roads.
 //***************************************************************
 
 #include <iostream>
