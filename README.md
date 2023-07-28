@@ -63,7 +63,7 @@ See also the list of [contributors](https://github.com/SgtR0ck/City_Simulator/gr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]([LICENSE.md](https://github.com/SgtR0ck/City_Simulator)) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/SgtR0ck/City_Simulator/blob/main/LICENSE.md) file for details
 
 ## Acknowledgments
 
