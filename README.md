@@ -1,4 +1,4 @@
-# City Simulator
+# City Simulator  https://img.shields.io/badge/Style-C++-blue
 
 This is a C++ based program that can be used to model the growth of a city based on the specified growth model.
 
