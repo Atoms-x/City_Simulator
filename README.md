@@ -1,4 +1,4 @@
-# City Simulator  https://img.shields.io/badge/Style-C++-blue
+# City Simulator  ![Static Badge](https://img.shields.io/badge/Language-C%2B%2B-%2300599C.svg?style=plastic&logo=C%2B%2B) ![Static Badge](https://img.shields.io/badge/Code%20Style-ANSI-orange.svg?style=plastic) ![Static Badge](https://img.shields.io/badge/License-MIT-green.svg?style=plastic&link=https%3A%2F%2Fgithub.com%2FSgtR0ck%2FCity_Simulator%2Fblob%2Fmain%2FLICENSE.md)
 
 This is a C++ based program that can be used to model the growth of a city based on the specified growth model.
 
