@@ -34,8 +34,9 @@ This is a C++ based program that can be used to model the growth of a city based
 
 ### Growth Model
 
-The growth model is broken down into three different zones: Residential, Commercial, and Industrial
-Go to [GROWTH.md](https://github.com/SgtR0ck/City_Simulator/blob/main/GROWTH.md)
+The growth model is broken down into three different zones: Residential, Commercial, and Industrial. Residential provides workers, Industrial provides goods, both contribute to the growth of Commercial.
+
+Go to [GROWTH.md](https://github.com/SgtR0ck/City_Simulator/blob/main/GROWTH.md) for a complete list of the rules to the growth model.
 
 ## Getting Started
 
