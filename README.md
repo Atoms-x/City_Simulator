@@ -18,7 +18,7 @@
 
 ## Table of Contents
   - [Introduction](#introduction)
-  - [Growth Model](#growth-model)
+    - [Growth Model](#growth-model)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Formatting](#formatting)
