@@ -103,7 +103,7 @@ A check for a specific area can then be made by giving a custom box dimension in
 
 ## Authors
 
-* **Chet Lockwood** - [SgtR0ck](https://github.com/SgtR0ck)
+* **Chet Lockwood** - [Atoms-x](https://github.com/Atoms-x)
 
 ## License
 
